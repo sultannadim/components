@@ -1,0 +1,7 @@
+.cust_acco:focus{
+	outline: none;
+	box-shadow: none;
+}
+.cust_acco:not(.collapsed){
+	color: black;
+}
